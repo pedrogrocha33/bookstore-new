@@ -13,6 +13,11 @@ Docker && docker-compose
 
 ## Quickstart
 
+1. Clone this project
+
+   ```shell
+   git clone git@github.com:drsantos20/bookstore.git
+   ```
 
 2. Install dependencies:
 
@@ -40,6 +45,3 @@ Docker && docker-compose
    ```shell
    docker-compose exec web python manage.py test
    ```
-
-
-
